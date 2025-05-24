@@ -7,7 +7,7 @@ A real-time fluid dynamics simulation implemented in Python using CUDA for GPU a
 ### 🚀 High-Performance Computing
 - **CUDA GPU Acceleration**: Leverages GPU parallel processing for real-time fluid simulation
 - **80x80 Grid Resolution**: High-resolution simulation with 6,400 fluid cells
-- **Real-time Physics**: Implements Navier-Stokes equations with proper boundary conditions
+- **Real-time Physics**: Implements a stable, semi-Lagrangian approximation of the Navier-Stokes equations for incompressible fluids
 
 ### 🎮 Interactive Controls
 - **Manual Control**: Arrow keys and buttons for cursor movement
